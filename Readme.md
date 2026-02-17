@@ -15,3 +15,7 @@ nano config.py  # phones + API_ID daalo
 # 6. Run!
 chmod +x run.sh
 ./run.sh
+# 7. 10 accounts  → 1-24hr temp ban
+# 8. 25 accounts  → 3-7 days ban
+# 9. 50+ accounts → Permanent ban
+# 10. Stealth mode → Max evasion
